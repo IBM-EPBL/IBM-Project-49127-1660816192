@@ -7,11 +7,9 @@
 [![](https://img.shields.io/github/issues/IBM-EPBL/IBM-Project-49127-1660816192)](https://github.com/IBM-EPBL/IBM-Project-49127-1660816192/issues)
 <br /> 
 
-<!-- PROJECT LOGO -->
-
 <p align="center">
   <a href="https://github.com/IBM-EPBL/IBM-Project-49127-1660816192">
-    <img src="/Images_content/logo.png" alt="Logo" width="80" height="80">
+    
   </a>
 
   <h3 align="center" size=20px>CUSTOMER CARE REGISTRY</h3>
